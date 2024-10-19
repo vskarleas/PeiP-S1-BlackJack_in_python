@@ -86,4 +86,4 @@ Vous êtes encouragés à ajouter des fonctionnalités supplémentaires comme un
 
 **PeiP-S1-BlackJack_project** © 2020 - 2021 by **Vasileios Filippos Skarleas** and **@hounkara** is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/). 
 
-This work also includes content that is not the property of **Vasileios Filippos Skarleas** and **@hounkara** and is subject to copyright and other licenses from their respective owners.
+This work also includes content that is not the property of **Vasileios Filippos Skarleas** and **@hounkara** and is subject to copyright and other licenses from their respective owners
